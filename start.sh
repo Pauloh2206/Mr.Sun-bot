@@ -1,0 +1,58 @@
+#!bin/bash
+NOCOLOR='\033[0m'
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+ORANGE='\033[0;33m'
+BLUE='\033[0;34m'
+PURPLE='\033[0;35m'
+CYAN='\033[0;36m'
+LIGHTGRAY='\033[0;37m'
+DARKGRAY='\033[1;30m'
+PURPLE='\033[1;31m'
+LIGHTGREEN='\033[1;32m'
+YELLOW='\033[1;33m'
+LIGHTRED='\033[1;34m'
+LIGHTPURPLE='\033[1;35m'
+LIGHTCYAN='\033[1;36m'
+WHITE='\033[1;37m'
+
+while :
+do
+
+clear
+echo " "
+echo "SCRIPT BY: ${BLUE}EDITOR: BY.PAULO-HERNANI 😉${NOCOLOR}"
+sleep 7
+clear
+echo " "
+echo "SCRIPT BY: ${BLUE}EDITOR: BY.PAULO-HERNANI 😉${NOCOLOR}"
+echo " "
+echo "${LIGHTPURPLE}𝗜𝗡𝗦𝗧𝗔${NOCOLOR}${RED}𝗚𝗥𝗔𝗠:${NOCOLOR} @SUN_MOD_LIT"
+echo 
+echo "${LIGHTGREEN}NÃO DIGA QUE O${NOCOLOR} ${CYAN}CÉU${NOCOLOR} ${LIGHTGREEN}É O LIMITE QUANDO HÁ PEGADAS NA${NOCOLOR} ${ORANGE}LUA 🌙${NOCOLOR} "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+sleep 7
+clear
+echo " "
+echo "${BLUE}I${NOCOLOR}N${BLUE}I${NOCOLOR}C${BLUE}I${NOCOLOR}A${BLUE}N${NOCOLOR}D${BLUE}O ${NOCOLOR}O ${BLUE}M${NOCOLOR}R.${BLUE}S${NOCOLOR}U${BLUE}N ${NOCOLOR}V${BLUE}9"
+sleep 1
+clear
+echo " "
+echo "${NOCOLOR}I${BLUE}N${NOCOLOR}I${BLUE}C${NOCOLOR}i${BLUE}A${NOCOLOR}N${BLUE}D${NOCOLOR}O ${BLUE}O ${NOCOLOR}M${BLUE}R.${NOCOLOR}S${BLUE}U${NOCOLOR}N ${BLUE}V${NOCOLOR}9"
+sleep 1
+clear
+echo " "
+echo "${BLUE}I${NOCOLOR}N${BLUE}I${NOCOLOR}C${BLUE}I${NOCOLOR}A${BLUE}N${NOCOLOR}D${BLUE}O ${NOCOLOR}O ${BLUE}M${NOCOLOR}R.${BLUE}S${NOCOLOR}U${BLUE}N ${NOCOLOR}V${BLUE}9"
+sleep 1
+clear
+echo " "
+echo "${NOCOLOR}I${BLUE}N${NOCOLOR}I${BLUE}C${NOCOLOR}I${BLUE}A${NOCOLOR}N${BLUE}D${NOCOLOR}O ${BLUE}O ${NOCOLOR}M${BLUE}R.${NOCOLOR}S${BLUE}U${NOCOLOR}N ${BLUE}V${NOCOLOR}9"
+sleep 1
+clear
+node index.js 
+sleep 1      
+done

@@ -1,0 +1,41 @@
+🇦🇰🇦🇲🇪 🇬🇦 🇰🇮🇱🇱
+🇮🇳🇸🇹🇦🇱🇦🇨🇦🇴
+
+︻╦╤─ ҉ - -
+
+✧════════════•❁❀❁•════════════✧
+
+Abaixo Estão Os Comandos de Instalação do Bot, Siga Os Comandos Com Atenção.
+
+
+[🩸] 1° COMANDO [🩸]
+
+termux-setup-storage
+
+E permite.
+
+[🩸] 2° COMANDO [🩸]
+
+cd /sdcard/Mr.sun-bot
+
+cd /sdcard/Download/Mr.sun-bot
+
+[🩸] 3° COMANDO [🩸]
+
+sh install.sh
+
+Vai precisar digitar y e confirmar toda vez que pedir.
+
+[🩸] 4° COMANDO [🩸]
+
+sh start.sh
+
+[🩸]  NOSSO GRUPO NO WHTS [🩸]
+
+https://chat.whatsapp.com
+
+SE DEU CERTO
+SEGUE NO INSTA BB
+@sun_mod_lit
+
+✧════════════•❁❀❁•════════════✧
